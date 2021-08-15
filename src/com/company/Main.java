@@ -8,9 +8,6 @@ public class Main {
         int x = 10;
         int y = 10;
 	    // write your code here
-        System.out.println("Hello World");
-        System.out.println(x*x);
-        System.out.println(y);
 
         System.out.println(add(x, y));
         System.out.println(add(10, 20));
